@@ -3,7 +3,7 @@
 | True Anguish |
 | :----: |
 | Ricardo Vieira |
-| <img src="PENITENT_ANOINTED/preview.png" width=126 height=146> |
+| <img src="PENITENT_ANGUISH/preview.png" width=126 height=146> |
 
 | Anointed Legion |
 | :----: |

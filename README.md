@@ -1,29 +1,26 @@
 # Skin Previews
 
-#### True Anguish <br>
-By: Ricardo Vieira <br><br>
-<img src="PENITENT_ANOINTED/preview.png" width=126 height=146><br>
+| True Anguish |
+| :----: |
+| Ricardo Vieira |
+| <img src="PENITENT_ANOINTED/preview.png" width=126 height=146> |
 
----
+| Anointed Legion |
+| :----: |
+| Ricardo Vieira |
+| <img src="PENITENT_ANOINTED/preview.png" width=126 height=146> |
 
-#### Anointed Legion <br>
-By: Ricardo Vieira <br><br>
-<img src="PENITENT_ANOINTED/preview.png" width=126 height=146><br>
+| Concept Art |
+| :----: |
+| Creme_Brulee |
+| <img src="PENITENT_ANOINTED/preview.png" width=126 height=146> |
 
----
+| Dawn |
+| :----: |
+| Creme_Brulee |
+| <img src="PENITENT_ANOINTED/preview.png" width=126 height=146> |
 
-#### Concept Art <br>
-By: Creme_Brulee <br><br>
-<img src="PENITENT_ANOINTED/preview.png" width=126 height=146><br>
-
----
-
-#### Dawn <br>
-By: Creme_Brulee <br><br>
-<img src="PENITENT_ANOINTED/preview.png" width=126 height=146><br>
-
----
-
-#### Esdras <br>
-By: Creme_Brulee <br><br>
-<img src="PENITENT_ANOINTED/preview.png" width=126 height=146><br>
+| Esdras |
+| :----: |
+| Creme_Brulee |
+| <img src="PENITENT_ANOINTED/preview.png" width=126 height=146> |

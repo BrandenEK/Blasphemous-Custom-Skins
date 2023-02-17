@@ -1,9 +1,9 @@
 # Skin Previews
 
-Anointed Legion
-By: Ricardo Vieira
-[]
+#### Anointed Legion <br>
+By: Ricardo Vieira <br>
+![Skin](Anointed Legion/preview.png)
 
-True Anguish
-By: Ricardo Vieira
-[]
+#### True Anguish <br>
+By: Ricardo Vieira <br>
+![Skin](Anointed Legion/preview.png)

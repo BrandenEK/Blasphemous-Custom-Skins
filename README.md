@@ -1,2 +1,9 @@
-# Blasphemous-Custom-Skins
-A collection of community made skins for the game Blasphemous
+# Skin Previews
+
+Anointed Legion
+By: Ricardo Vieira
+[]
+
+True Anguish
+By: Ricardo Vieira
+[]

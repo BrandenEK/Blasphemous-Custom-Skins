@@ -1,0 +1,5 @@
+{
+	"id": "PENITENT_ANOINTED",
+	"name": "Anointed Legion",
+	"author": "Ricardo Vieira"
+}

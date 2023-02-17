@@ -1,0 +1,5 @@
+{
+	"id": "PENITENT_ANGUISH",
+	"name": "True Anguish",
+	"author": "Ricardo Vieira"
+}

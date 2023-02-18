@@ -1,5 +1,7 @@
 # Skin Previews
 
+The previews are just templates right now.
+
 | True Anguish |
 | :----: |
 | Ricardo Vieira |

@@ -26,3 +26,8 @@ The previews are just templates right now.
 | :----: |
 | Creme_Brulee |
 | <img src="PENITENT_CB_ESDRAS/preview.png" width=252 height=292> |
+
+| True Abnegation |
+| :----: |
+| Ricardo Vieira |
+| <img src="PENITENT_RV_ABNEGATION/preview.png" width=252 height=292> |

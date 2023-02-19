@@ -7,10 +7,10 @@ The previews are just templates right now.
 | Ricardo Vieira |
 | <img src="PENITENT_ANGUISH/preview.png" width=252 height=292> |
 
-| Anointed Legion |
-| :----: |
-| Ricardo Vieira |
-| <img src="PENITENT_ANOINTED/preview.png" width=252 height=292> |
+| Anointed Legion | |
+| :----: | :----: |
+| Ricardo Vieira | |
+| <img src="PENITENT_ANOINTED/idlePreview.png" width=252 height=292> | <img src="PENITENT_ANOINTED/chargedPreview.png" width=400 height=292> |
 
 | Concept Art |
 | :----: |

@@ -1,0 +1,5 @@
+{
+	"id": "PENITENT_RV_SBLASPHEMIA",
+	"name": "Summa Blasphemia",
+	"author": "Ricardo Vieira"
+}

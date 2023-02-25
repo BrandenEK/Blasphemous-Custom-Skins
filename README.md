@@ -36,3 +36,8 @@
 | :----: | :----: |
 | Ricardo Vieira | |
 | <img src="PENITENT_RV_ANOINTED/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_ANOINTED/chargedPreview.png" width=346 height=218> |
+
+| Summa Blasphemia | |
+| :----: | :----: |
+| Ricardo Vieira | |
+| <img src="PENITENT_RV_SBLASPHEMIA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_SBLASPHEMIA/chargedPreview.png" width=346 height=218> |

@@ -1,0 +1,5 @@
+{
+  "id": "PENITENT_RV_SALT",
+  "name": "Pillar of Salt",
+  "author": "Raider"
+}

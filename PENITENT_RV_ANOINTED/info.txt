@@ -1,5 +1,5 @@
 {
-	"id": "PENITENT_RV_ANOINTED",
-	"name": "Anointed Legion",
-	"author": "Ricardo Vieira"
+  "id": "PENITENT_RV_ANOINTED",
+  "name": "Anointed Legionary",
+  "author": "Raider"
 }

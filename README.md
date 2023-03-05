@@ -7,6 +7,31 @@
 
 # Skin Previews
 
+| Anointed Legionary | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_ANOINTED/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_ANOINTED/chargedPreview.png" width=346 height=218> |
+
+| Anointed Soldier | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_SOLDIER/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_SOLDIER/chargedPreview.png" width=346 height=218> |
+
+| Apodictic Mantle | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_APODICTIC/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_APODICTIC/chargedPreview.png" width=346 height=218> |
+
+| Aurora Guardian | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_AURORA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_AURORA/chargedPreview.png" width=346 height=218> |
+
+| Bronze Sentinel | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_BRONZE/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_BRONZE/chargedPreview.png" width=346 height=218> |
+
 | Concept Art | |
 | :----: | :----: |
 | Creme_Brulee | |
@@ -22,22 +47,67 @@
 | Creme_Brulee | |
 | <img src="PENITENT_CB_ESDRAS/idlePreview.png" width=252 height=292> | <img src="PENITENT_CB_ESDRAS/chargedPreview.png" width=346 height=218> |
 
-| True Abnegation | |
+| Eternal Blue | |
 | :----: | :----: |
-| Ricardo Vieira | |
-| <img src="PENITENT_RV_ABNEGATION/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_ABNEGATION/chargedPreview.png" width=346 height=218> |
+| Raider | |
+| <img src="PENITENT_RV_MIRIAM/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_MIRIAM/chargedPreview.png" width=346 height=218> |
 
-| True Anguish | |
+| Golden Stanza | |
 | :----: | :----: |
-| Ricardo Vieira | |
-| <img src="PENITENT_RV_ANGUISH/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_ANGUISH/chargedPreview.png" width=346 height=218> |
+| Raider | |
+| <img src="PENITENT_RV_SAETA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_SAETA/chargedPreview.png" width=346 height=218> |
 
-| Anointed Legion | |
+| Memento Saffron | |
 | :----: | :----: |
-| Ricardo Vieira | |
-| <img src="PENITENT_RV_ANOINTED/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_ANOINTED/chargedPreview.png" width=346 height=218> |
+| Raider | |
+| <img src="PENITENT_RV_SAFFRON/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_SAFFRON/chargedPreview.png" width=346 height=218> |
+
+| Pillar of Salt | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_SALT/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_SALT/chargedPreview.png" width=346 height=218> |
+
+| Scribe of the Miracle | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_DEOGRACIAS/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_DEOGRACIAS/chargedPreview.png" width=346 height=218> |
+
+| Stained Crystal | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_STAINED/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_STAINED/chargedPreview.png" width=346 height=218> |
 
 | Summa Blasphemia | |
 | :----: | :----: |
-| Ricardo Vieira | |
-| <img src="PENITENT_RV_SBLASPHEMIA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_SBLASPHEMIA/chargedPreview.png" width=346 height=218> |
+| Raider | |
+| <img src="PENITENT_RV_BLAS/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_BLAS/chargedPreview.png" width=346 height=218> |
+
+| The Merciful One | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_VIRIDIANA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_VIRIDIANA/chargedPreview.png" width=346 height=218> |
+
+| The Penitent One | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_TPO/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_TPO/chargedPreview.png" width=346 height=218> |
+
+| True Abnegation | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_CRISANTA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_CRISANTA/chargedPreview.png" width=346 height=218> |
+
+| True Anguish | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_ANGUSTIA/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_ANGUSTIA/chargedPreview.png" width=346 height=218> |
+
+| Unholy Visage | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_VISAGE/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_VISAGE/chargedPreview.png" width=346 height=218> |
+
+| Voice of the Deformity | |
+| :----: | :----: |
+| Raider | |
+| <img src="PENITENT_RV_DEFORMITY/idlePreview.png" width=252 height=292> | <img src="PENITENT_RV_DEFORMITY/chargedPreview.png" width=346 height=218> |

@@ -1,5 +1,0 @@
-{
-	"id": "PENITENT_RV_ABNEGATION",
-	"name": "True Abnegation",
-	"author": "Ricardo Vieira"
-}

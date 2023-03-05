@@ -1,5 +1,0 @@
-{
-	"id": "PENITENT_RV_ANGUISH",
-	"name": "True Anguish",
-	"author": "Ricardo Vieira"
-}

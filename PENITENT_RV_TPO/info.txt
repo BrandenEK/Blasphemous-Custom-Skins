@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_RV_TPO",
   "name": "The Penitent One",
-  "author": "Raider"
+  "author": "Raider",
+  "version": "0.1.0"
 }

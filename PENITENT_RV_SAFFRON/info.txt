@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_RV_SAFFRON",
   "name": "Memento Saffron",
-  "author": "Raider"
+  "author": "Raider",
+  "version": "0.1.0"
 }

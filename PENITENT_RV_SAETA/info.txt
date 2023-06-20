@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_RV_SAETA",
   "name": "Golden Stanza",
-  "author": "Raider"
+  "author": "Raider",
+  "version": "0.1.0"
 }

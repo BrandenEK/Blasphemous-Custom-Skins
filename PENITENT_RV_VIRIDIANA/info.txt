@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_RV_VIRIDIANA",
   "name": "The Merciful One",
-  "author": "Raider"
+  "author": "Raider",
+  "version": "0.1.0"
 }

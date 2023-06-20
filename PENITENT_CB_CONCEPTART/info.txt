@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_CB_CONCEPTART",
   "name": "Concept Art",
-  "author": "Creme_Brulee"
+  "author": "Creme_Brulee",
+  "version": "1.0.0"
 }

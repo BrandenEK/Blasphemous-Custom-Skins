@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_RV_MIRIAM",
   "name": "Eternal Blue",
-  "author": "Raider"
+  "author": "Raider",
+  "version": "1.0.0"
 }

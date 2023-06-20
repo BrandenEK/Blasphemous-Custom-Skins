@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_RV_DEFORMITY",
   "name": "Voice of the Deformity",
-  "author": "Raider"
+  "author": "Raider",
+  "version": "0.2.0"
 }

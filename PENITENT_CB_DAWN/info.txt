@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_CB_DAWN",
   "name": "Dawn",
-  "author": "Creme_Brulee"
+  "author": "Creme_Brulee",
+  "version": "1.0.0"
 }

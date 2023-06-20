@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_SAETA",
-  "name": "Golden Stanza",
-  "author": "Raider"
-}

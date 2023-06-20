@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_DEFORMITY",
-  "name": "Voice of the Deformity",
-  "author": "Raider"
-}

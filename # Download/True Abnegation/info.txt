@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_CRISANTA",
-  "name": "True Abnegation",
-  "author": "Raider"
-}

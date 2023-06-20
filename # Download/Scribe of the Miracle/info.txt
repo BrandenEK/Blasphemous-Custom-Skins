@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_DEOGRACIAS",
-  "name": "Scribe of the Miracle",
-  "author": "Raider"
-}

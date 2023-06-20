@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_TPO",
-  "name": "The Penitent One",
-  "author": "Raider"
-}

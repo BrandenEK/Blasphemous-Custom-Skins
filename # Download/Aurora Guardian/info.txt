@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_AURORA",
-  "name": "Aurora Guardian",
-  "author": "Raider"
-}

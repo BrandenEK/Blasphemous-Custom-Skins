@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_BRONZE",
-  "name": "Bronze Sentinel",
-  "author": "Raider"
-}

@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_BLAS",
-  "name": "Summa Blasphemia",
-  "author": "Raider"
-}

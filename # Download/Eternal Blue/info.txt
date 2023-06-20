@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_MIRIAM",
-  "name": "Eternal Blue",
-  "author": "Raider"
-}

@@ -1,5 +1,0 @@
-{
-	"id": "PENITENT_CB_DAWN",
-	"name": "Dawn",
-	"author": "Creme_Brulee"
-}

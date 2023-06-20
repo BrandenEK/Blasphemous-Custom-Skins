@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_STAINED",
-  "name": "Stained Crystal",
-  "author": "Raider"
-}

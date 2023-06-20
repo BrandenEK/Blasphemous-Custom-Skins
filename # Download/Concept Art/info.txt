@@ -1,5 +1,0 @@
-{
-	"id": "PENITENT_CB_CONCEPTART",
-	"name": "Concept Art",
-	"author": "Creme_Brulee"
-}

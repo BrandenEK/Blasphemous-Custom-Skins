@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_RV_VISAGE",
-  "name": "Unholy Visage",
-  "author": "Raider"
-}

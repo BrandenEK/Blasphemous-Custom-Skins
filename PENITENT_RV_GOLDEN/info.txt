@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_RV_GOLDEN",
+  "name": "Golden Passion",
+  "author": "Raider",
+  "version": "1.0.0"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "PENITENT_JD_HEDGEHOG",
+  "name": "Hedgehog Armour",
+  "author": "JimmyDiamonds"
+}

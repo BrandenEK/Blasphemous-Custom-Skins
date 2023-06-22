@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_RV_STONE",
+  "name": "Memento Safranum",
+  "author": "Raider",
+  "version": "1.0.0"
+}

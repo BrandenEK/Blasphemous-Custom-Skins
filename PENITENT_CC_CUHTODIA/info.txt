@@ -1,0 +1,5 @@
+{
+  "id": "VIVA_CVHTODIA",
+  "name": "Viva er Cvhtodia",
+  "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)"
+}

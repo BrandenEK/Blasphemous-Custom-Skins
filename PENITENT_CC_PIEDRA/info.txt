@@ -1,0 +1,5 @@
+{
+  "id": "PIEDRA_SANGRANTE",
+  "name": "Piedra_Sangrante",
+  "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)"
+}

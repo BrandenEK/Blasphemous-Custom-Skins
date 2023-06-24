@@ -1,5 +1,5 @@
 {
-  "id": "PIEDRA",
+  "id": "PENITENT_CC_PIEDRA",
   "name": "Piedra_Sangrante",
   "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)"
 }

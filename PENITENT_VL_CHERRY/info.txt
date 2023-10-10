@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_RV_CHERRY",
+  "name": "Corazón de Almibar",
+  "author": "Ville Louie",
+  "version": "1.0.0"
+}

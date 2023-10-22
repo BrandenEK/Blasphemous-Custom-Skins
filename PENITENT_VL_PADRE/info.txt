@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_VL_PADRE",
-  "name": "Father of the Penitents",
-  "author": "Ville Louie",
-  "version": "1.0.0"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_VL_LOUIE",
-  "name": "Louie's Apostasy",
-  "author": "Ville Louie",
-  "version": "1.0.0"
-}

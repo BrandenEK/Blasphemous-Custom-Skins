@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_VL_COMPETITIVE",
+  "name": "Ente del Panteón",
+  "author": "Ville Louie",
+  "version": "1.0.0"
+}

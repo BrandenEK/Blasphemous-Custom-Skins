@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_VL_WINE",
-  "name": "Sangre Del Retorcido",
-  "author": "Ville Louie",
-  "version": "1.0.0"
-}

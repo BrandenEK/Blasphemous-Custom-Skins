@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_VL_CHAMPION",
+  "name": "Campeón Del Milagro ",
+  "author": "Ville Louie",
+  "version": "1.0.0"
+}

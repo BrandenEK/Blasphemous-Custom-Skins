@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_VL_HATE",
-  "name": "Peso De La Venganza",
-  "author": "Ville Louie",
-  "version": "1.0.0"
-}

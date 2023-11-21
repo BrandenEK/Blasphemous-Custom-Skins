@@ -1,5 +1,0 @@
-{
-  "id": "PENITENT_JD_POISON",
-  "name": "Poison Pentient",
-  "author": "JimmyDiamonds"
-}

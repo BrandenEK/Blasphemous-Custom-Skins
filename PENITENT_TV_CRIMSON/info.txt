@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_TV_CRIMSON",
-  "name": "Crimson Crusader",
-  "author": "ObsessiveBadguy",
-  "version": "1.0.0"
-}

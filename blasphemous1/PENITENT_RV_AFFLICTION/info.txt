@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_RV_AFFLICTION",
+  "name": "Cradle Of Affliction",
+  "author": "vLYCANv",
+  "version": "1.0.0"
+}

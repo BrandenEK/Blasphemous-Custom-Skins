@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TR_LUNA",
+  "name": "PenitenciaDeLaLuna",
+  "author": "Lunarosel/ObsessiveBadguy",
+  "version": "1.0.0"
+}

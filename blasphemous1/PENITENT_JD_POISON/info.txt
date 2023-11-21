@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_JD_POISON",
   "name": "Poison Pentient",
-  "author": "JimmyDiamonds"
+  "author": "JimmyDiamonds",
+  "version": "1.0.0"
 }

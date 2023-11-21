@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_CC_PIEDRA",
   "name": "Piedra_Sangrante",
-  "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)"
+  "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)",
+  "version": "1.0.0"
 }

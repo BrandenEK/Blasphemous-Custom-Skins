@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_CC_CUHTODIA",
   "name": "Viva er Cvhtodia",
-  "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)"
+  "author": "Rodol J. \"ConanCimmerio\" Pérez (Ro)",
+  "version": "1.0.0"
 }

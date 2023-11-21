@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LC_ARTWORK",
+  "name": "Penitent One Artwork",
+  "author": "Luckz",
+  "version": "1.0.0"
+}

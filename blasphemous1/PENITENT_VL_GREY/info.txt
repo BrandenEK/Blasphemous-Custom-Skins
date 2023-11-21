@@ -1,5 +1,5 @@
 {
-  "id": "PENITENT_VL_VILLE",
+  "id": "PENITENT_VL_GREY",
   "name": "Alma De Acero Gris",
   "author": "Ville Louie",
   "version": "1.0.0"

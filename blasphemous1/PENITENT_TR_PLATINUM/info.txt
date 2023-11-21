@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TR_PLATINUM",
+  "name": "Platinum Executioner",
+  "author": "ObsessiveBadguy/Lunarosel",
+  "version": "1.0.0"
+}

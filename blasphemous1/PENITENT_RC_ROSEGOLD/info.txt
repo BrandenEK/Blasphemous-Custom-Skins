@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_RC_ROSEGOLD",
+  "name": "Rosegold Knight",
+  "author": "Lunarosel",
+  "version": "1.0.0"
+}

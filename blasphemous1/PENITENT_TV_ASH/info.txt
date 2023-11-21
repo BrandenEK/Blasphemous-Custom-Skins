@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_ASH",
+  "name": "Blood From Ashes",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

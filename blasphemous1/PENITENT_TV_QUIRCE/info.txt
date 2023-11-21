@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_QUIRCE",
+  "name": "Penance Returned By The Flames",
+  "author": "ObsessiveBadguy/TGK",
+  "version": "1.0.0"
+}

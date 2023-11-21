@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_ROYAL",
+  "name": "Royal El Penitente",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

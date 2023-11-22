@@ -2,5 +2,5 @@
   "id": "PENITENT_RV_BLAS",
   "name": "Summa Blasphemia",
   "author": "Raider",
-  "version": "1.0.1"
+  "version": "1.0.0"
 }

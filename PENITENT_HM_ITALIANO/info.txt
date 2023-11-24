@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_HM_ITALIANO",
-  "name": "The Italiano",
-  "author": "HeafyMetal",
-  "version": "1.0.0"
-}

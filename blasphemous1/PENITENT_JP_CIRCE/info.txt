@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_JP_CIRCE",
+  "name": "Circe",
+  "author": "Javipopotter",
+  "version": "1.0.0"
+}

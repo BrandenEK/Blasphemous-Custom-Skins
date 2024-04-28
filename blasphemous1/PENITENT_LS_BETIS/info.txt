@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LS_BETIS",
+  "name": "¿A'nde êttá er Betî?",
+  "author": "LuceScarlet",
+  "version": "1.0.0"
+}

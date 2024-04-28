@@ -1,6 +1,6 @@
 {
   "id": "PENITENT_LS_BETIS",
-  "name": "¿A'nde êttá er Betî?",
+  "name": "Viva er Beti",
   "author": "LuceScarlet",
   "version": "1.0.0"
 }

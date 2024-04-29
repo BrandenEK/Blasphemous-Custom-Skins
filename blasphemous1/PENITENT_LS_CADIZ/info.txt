@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LS_CADIZ",
+  "name": "Cadi",
+  "author": "LuceScarlet",
+  "version": "1.0.0"
+}

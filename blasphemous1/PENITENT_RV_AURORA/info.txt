@@ -2,5 +2,5 @@
   "id": "PENITENT_RV_AURORA",
   "name": "Aurora Guardian",
   "author": "Raider",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

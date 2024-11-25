@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_METROID_SKIN",
+  "name": "Metroid Skin",
+  "author": "FaustBaudelaire",
+  "version": "1.0"
+}

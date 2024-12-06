@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_XT_XANATHAR",
+  "name": "Xan's Penance",
+  "author": "Xanathar865",
+  "version": "1.0.0"
+}

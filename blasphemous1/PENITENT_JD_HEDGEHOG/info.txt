@@ -1,5 +1,6 @@
 {
   "id": "PENITENT_JD_HEDGEHOG",
   "name": "Hedgehog Armour",
-  "author": "JimmyDiamonds"
+  "author": "JimmyDiamonds",
+  "version": "1.0.0"
 }

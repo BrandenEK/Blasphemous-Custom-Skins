@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_ZL_PURPLE_PENANCE",
+  "name": "Purple Penance",
+  "author": "Zrylics",
+  "version": "1.0.0"
+}
